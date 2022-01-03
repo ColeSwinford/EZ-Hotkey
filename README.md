@@ -19,3 +19,7 @@ Simple, easy-to-use hotkey program for Windows
 ## FAQ
 *  Does this program work when minimized? - Yes
 * Can I use Alt+F4 in my hotkeys? - Yes
+
+
+// Link to GitHub
+https://github.com/ColeSwinford/EZ-Hotkey
