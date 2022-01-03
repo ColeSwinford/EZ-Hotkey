@@ -17,5 +17,5 @@ Note: EZ_Hotkey.exe will only work when inside a folder with "resources"
 6) Reset the entire hotkey by pressing the red stop button
 
 ## FAQ
-> Does this program work when minimized? - Yes
-> Can I use Alt+F4 in my hotkeys? - Yes
+/ Does this program work when minimized? - Yes
+/ Can I use Alt+F4 in my hotkeys? - Yes
