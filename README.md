@@ -13,7 +13,7 @@ Note: EZ_Hotkey.exe will only work when inside a folder with "resources"
 2) After selecting the Output box, all keystrokes will be recorded until the 'Esc' key is pressed
 3) Clicking the blue start button will run the hotkey until the red stop button is pressed
 4) Quick help can be found via the "i" button at the top right
-5) Clear either Input or Output by selecting the respective box
+5) Clear Input or Output by selecting the respective box
 6) Reset the entire hotkey by pressing the red stop button
 
 ## FAQ
