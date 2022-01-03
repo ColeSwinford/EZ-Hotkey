@@ -2,7 +2,7 @@
 Free, simple, and easy-to-use hotkey program for Windows
 
 ## Installing EZ Hotkey
-1) CODE > Download ZIP
+1) Code > Download ZIP
 2) Extract ZIP
 3) Navigate to EZ Hotkey.exe
 - Note: EZ Hotkey.exe will only work when inside a folder with "resources"
