@@ -8,7 +8,7 @@ Free, simple, and easy-to-use hotkey program for Windows
 - Note: EZ Hotkey.exe will only work when inside a folder with "resources"
 
 ## (Optional) Tidy up install
-1) Place the main folder in documents
+1) Place the main folder in documents (or another out-of-the-way folder)
 2) Create shortcut
 * Desktop: Right click > create shortcut > drag shortcut to desktop
 * Taskbar: Open EZ Hotkey.exe > right click on taskbar icon > pin to taskbar
