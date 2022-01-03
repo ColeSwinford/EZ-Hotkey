@@ -12,7 +12,7 @@ Free, simple, and easy-to-use hotkey program for Windows
 2) Create shortcut
 * Desktop: Right click > create shortcut > drag shortcut to desktop
 * Taskbar: Open EZ Hotkey.exe > right click on taskbar icon > pin to taskbar
-* Start menu: rigth click on EZ Hotkey.exe > pin to start menu
+* Start menu: Right click on EZ Hotkey.exe > pin to start menu
 
 ## Using EZ Hotkey
 1) After selecting the Input box, press desired keys to trigger the hotkey, then release
