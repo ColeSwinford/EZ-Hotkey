@@ -4,9 +4,9 @@ Simple, easy-to-use hotkey program for Windows
 ## Installing EZ Hotkey
 1) Download ZIP
 2) Extract ZIP
-3) Navigate to EZ_Hotkey.exe
-4) (Optional) Make a shortcut to EZ_Hotkey.exe for easier access anywhere you like
-- Note: EZ_Hotkey.exe will only work when inside a folder with "resources"
+3) Navigate to EZ Hotkey.exe
+4) (Optional) Make a shortcut to EZ Hotkey.exe for easier access anywhere you like
+- Note: EZ Hotkey.exe will only work when inside a folder with "resources"
 
 ## Using EZ Hotkey
 1) After selecting the Input box, press desired keys to trigger the hotkey, then release
