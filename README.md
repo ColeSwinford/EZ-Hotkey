@@ -25,7 +25,7 @@ Free, simple, and easy-to-use hotkey program for Windows
 6) Reset the entire hotkey by pressing the red stop button
 
 ## FAQ
-*  Does this program work when minimized? - Yes
+* Does this program work when minimized? - Yes
 * Can I use Alt+F4 in my hotkeys? - Yes
 
 
