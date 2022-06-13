@@ -1,5 +1,5 @@
 # EZ-Hotkey
-Free, open-source, simple, and easy-to-use hotkey program for Windows
+Free, open-source, and easy-to-use hotkey program for Windows
 
 ![EZ Hotkey](https://user-images.githubusercontent.com/19520329/148511241-c271f390-5879-40f8-bc91-2b56b964da29.png)
 
